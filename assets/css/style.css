@@ -1,0 +1,40 @@
+header {
+    width: 960px;
+    margin: 0 auto 0 auto;
+    display: inline-block;
+    background: white;
+}
+
+body {
+    width: 960px;
+    margin: 0 auto 0 auto;
+}
+
+.content {
+    width: 960px;
+}
+
+.imagen {
+    float: left;
+}
+
+.My_Name {
+    padding: 20px;
+    background-color: #4aaaa5;
+    color: white;
+    float: left;
+}
+
+.Links {
+    float: right;
+    padding: 20px;
+    text-align: right;
+}
+
+.footer {
+    width: 960px;
+    background-color: gray;
+    padding: 30px;
+    text-align: center;
+}
+
